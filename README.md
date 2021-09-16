@@ -10,10 +10,19 @@ Como ruta de aprendizaje me encuentro manejando algunas tecnologias como lo son:
 HTML 
 CSS
 JavaScript
+PHP
 Java
 Dart
 Python
 
+Tambien estoy trabajando en algunos nuevos lenguajes y tecnologias, nunca se deja de aprender algo nuevo.
+
+C#
+C++
+C
+Bash
+
+Son tecnologias con las cuales he realizado algunos proyectos como los que puedes ver en mis repositorios.
 
 Algunos Frameworks y librerias con los que ya he trabajado son las siguientes:
 
@@ -29,6 +38,7 @@ IBM Cloud
 
 Las cuales por cierto puedes experimentar de forma gratuita.
 
+Sin mas eres libre de explorar el perfil. Espero te guste, cualquier duda o comentario puedes hacerlo en mis redes sociales, con gusto atendere.
 
 
 
