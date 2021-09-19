@@ -2,56 +2,59 @@
 
 ## 🌁 Que hago ahora...
 
-_Actualmente me encuentro estudiando la Ing. en Gestion y Desarrollo de Software y trabajando en proyectos de manera independiente y tambien en algunas praticas profesionales._
+Actualmente me encuentro estudiando la Ing. en Gestion y Desarrollo de Software y trabajando en proyectos de manera independiente y tambien en algunas praticas profesionales.
+ ***
 
 ## 🤝 ! Contactame ¡
 Puedes contactarme en cualquier medio.
 
-kjajksdh
+
 ***
 
 ## ⌛ Mi ruta de aprendizaje
-Como ruta de aprendizaje me encuentro manejando algunas tecnologias como lo son:
+* Como ruta de aprendizaje me encuentro manejando algunas tecnologias como lo son:
 
-- HTML 
-- CSS
-- JavaScript
-- PHP
-- Java
-- Dart
-- Python
-
-## 🗒️ Siempre hay algo nuevo por aprender
-Tambien estoy trabajando en algunos nuevos lenguajes y tecnologias, nunca se deja de aprender algo nuevo.
-
-- C#
-- C++
-- C
-- Bash
-
- 🔭 _Son tecnologias con las cuales he realizado algunos proyectos como los que puedes ver en mis repositorios._
+    - HTML 
+    - CSS
+    - JavaScript
+    - PHP
+    - Java
+    - Dart
+    - Python
  ***
+## 🗒️ Siempre hay algo nuevo por aprender
+* Tambien estoy trabajando en algunos nuevos lenguajes y tecnologias, nunca se deja de aprender algo nuevo.
+
+    - C#
+    - C++
+    - C
+    - Bash
+
+
+ * Son tecnologias con las cuales he realizado algunos proyectos como los que puedes ver en mis repositorios 🔭️.
 
 
 
 
-### Algunos Frameworks y librerias con los que ya he trabajado son las siguientes:
 
-- Bootstrap <img>
-- Django
-- Laravel
-- CodeIgniter
+*   Algunos Frameworks y librerias con los que ya he trabajado son las siguientes:
+
+    - Bootstrap <img>
+    - Django
+    - Laravel
+    - CodeIgniter
+***
 
 ## ☁️ Un poco de la Nube
-Por ultimo actualmente me encuentro probando tecnologias en la nube como lo son:
+* Por ultimo actualmente me encuentro probando tecnologias en la nube como lo son:
 
-- Azure
-- IBM Cloud
+    - Azure
+    - IBM Cloud
 
-Las cuales por cierto puedes experimentar de forma gratuita 😉
+* Las cuales por cierto puedes experimentar de forma gratuita 😉
 
 
-Sin mas eres libre de explorar el perfil. Espero te guste, cualquier duda o comentario puedes hacerlo en mis redes sociales, con gusto atendere.
+* Sin mas eres libre de explorar el perfil. Espero te guste, cualquier duda o comentario puedes hacerlo en mis redes sociales.
 
 
 
