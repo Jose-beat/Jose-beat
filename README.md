@@ -14,13 +14,13 @@ Puedes contactarme en cualquier medio.
 ## ⌛ Mi ruta de aprendizaje
 * Como ruta de aprendizaje me encuentro manejando algunas tecnologias como lo son:
 
-    - HTML 
-    - CSS
-    - JavaScript
-    - PHP
-    - Java
-    - Dart
-    - Python
+    - <img src="res/assets/img/html.png"   style="width:28px; position:relative; top:7px;"> HTML 
+    - <img src="res/assets/img/css.png"    style="width:28px; position:relative; top:7px;"> CSS
+    - <img src="res/assets/img/js.png"     style="width:28px; position:relative; top:7px;"> JavaScript
+    - <img src="res/assets/img/php.png"    style="width:28px; position:relative; top:7px;"> PHP
+    - <img src="res/assets/img/java.png"   style="width:28px; position:relative; top:7px;"> Java
+    - <img src="res/assets/img/dart.png"   style="width:28px; position:relative; top:7px;"> Dart
+    - <img src="res/assets/img/python.png" style="width:28px; position:relative; top:7px;"> Python
  ***
 ## 🗒️ Siempre hay algo nuevo por aprender
 * Tambien estoy trabajando en algunos nuevos lenguajes y tecnologias, nunca se deja de aprender algo nuevo.
@@ -52,9 +52,9 @@ Puedes contactarme en cualquier medio.
     - IBM Cloud
 
 * Las cuales por cierto puedes experimentar de forma gratuita 😉
+***
 
-
-* Sin mas eres libre de explorar el perfil. Espero te guste, cualquier duda o comentario puedes hacerlo en mis redes sociales.
+### Sin mas eres libre de explorar el perfil. Espero te guste, cualquier duda o comentario puedes hacerlo en mis redes sociales.
 
 
 
