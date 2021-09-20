@@ -25,10 +25,10 @@ Puedes contactarme en cualquier medio.
 ## 🗒️ Siempre hay algo nuevo por aprender
 * Tambien estoy trabajando en algunos nuevos lenguajes y tecnologias, nunca se deja de aprender algo nuevo.
 
-    - C#
-    - C++
-    - C
-    - Bash
+    <!-- - - <img src="res/assets/img/C#.png" style="width:28px; position:relative; top:7px; margin-right : 10px ">C# -->
+    - <img src="res/assets/img/c++.png" style="width:28px; position:relative; top:7px; margin-right : 10px ">C++
+    - <img src="res/assets/img/c.png" style="width:28px; position:relative; top:7px; margin-right : 10px ">C
+   <!-- - <img src="res/assets/img/bash.png" style="width:28px; position:relative; top:7px; margin-right : 10px ">Bash-->
 
 
 * Son tecnologias con las cuales he realizado algunos proyectos como los que puedes ver en mis repositorios 🔭️.
@@ -39,10 +39,11 @@ Puedes contactarme en cualquier medio.
 
 *   Algunos Frameworks y librerias con los que ya he trabajado son las siguientes:
 
-    - Bootstrap
-    - Django
-    - Laravel
-    - CodeIgniter
+    - <img src="res/assets/img/bootstrap.png" style="width:50px; position:relative; top: 20px; margin-right : 10px ">Bootstrap
+    - <img src="res/assets/img/django.png" style="width:50px; position:relative; top: 20px; margin-right : 10px ">Django
+    - <img src="res/assets/img/laravel.png" style="width:50px; position:relative; top: 20px; margin-right : 10px ">Laravel
+    - <img src="res/assets/img/codeigniter.png" style="width:40px; position:relative; top: 15px; margin-right : 10px ">CodeIgniter
+
 ***
 
 ## ☁️ Un poco de la Nube
