@@ -59,7 +59,7 @@ Mis Redes Sociales
   <b></b><br>
    <a href="https://www.facebook.com/joseuriel.rodriguez.92"><img src="res/assets/img/facebook_icon.png"  style="width:35px;"></a>&nbsp
   <a href="https://twitter.com/JoseUri36662979"><img src="res/assets/img/twitter_icon.png"    style="width:35px; "></a>&nbsp
-  <a href="www.linkedin.com/in/josé-uriel-rodríguez-ramírez-a787001b0"><img src="res/assets/img/linkedin_icon.png" style="width:35px; "></a>
+  <a href="https://www.linkedin.com/in/josé-uriel-rodríguez-ramírez-a787001b0"><img src="res/assets/img/linkedin_icon.png" style="width:35px; "></a>
   <br><br>
 </p>
 
